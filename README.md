@@ -61,5 +61,4 @@
 ---
 
 ## 📬 Контакты
-- **Telegram**: [@redshyler](https://t.me/redshyler)  
-- **Email**: redshyler@gmail.com
+- **Telegram**: [@redshyler](https://t.me/redshyler)
