@@ -4,8 +4,8 @@
 
 ---
 
-## 🛠️ Мои навыки и инструменты
-### 🚀 Ежедневно использую:
+## 🔧 Мои навыки и инструменты
+### 🤖 Ежедневно использую:
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![watchOS](https://img.shields.io/badge/-watchOS-000000?style=for-the-badge&logo=apple&logoColor=white)
