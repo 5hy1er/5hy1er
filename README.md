@@ -14,7 +14,6 @@
 ![Todoist](https://img.shields.io/badge/-Todoist-EE4C2C?style=for-the-badge&logo=todoist&logoColor=white)
 ![Apple Calendar](https://img.shields.io/badge/-Apple%20Calendar-F6F6F6?style=for-the-badge&logo=apple&logoColor=black)
 ![Koss](https://img.shields.io/badge/-Koss-CC0000?style=for-the-badge&logo=music&logoColor=white)
-![Sennheiser](https://img.shields.io/badge/-Sennheiser-005AA7?style=for-the-badge&logo=sennheiser&logoColor=white)
 
 ### ✅ Уверенно владею:
 ![DevTools](https://img.shields.io/badge/-DevTools-00a3e0?style=for-the-badge&logo=googlechrome&logoColor=white)
