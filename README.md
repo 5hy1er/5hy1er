@@ -5,7 +5,7 @@
 ---
 
 ## 🔧 Мои навыки и инструменты
-### 🤖 Ежедневно использую:
+### 👨🏽‍💻 Ежедневно использую:
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
