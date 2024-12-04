@@ -12,7 +12,7 @@
 ![tvOS](https://img.shields.io/badge/-tvOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Apple Calendar](https://img.shields.io/badge/-Apple%20Calendar-F6F6F6?style=for-the-badge&logo=apple&logoColor=black)
 ![Todoist](https://img.shields.io/badge/-Todoist-EE4C2C?style=for-the-badge&logo=todoist&logoColor=white)
-![Logitec]
+![Logitech](https://img.shields.io/badge/-Logitech-00BFFF?style=for-the-badge&logo=logitech&logoColor=white)
 ![Koss](https://img.shields.io/badge/-Koss-CC0000?style=for-the-badge&logo=music&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
