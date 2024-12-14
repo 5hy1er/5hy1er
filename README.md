@@ -39,6 +39,7 @@
 ### 💡 Изучаю:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Autotesting](https://img.shields.io/badge/-Autotesting-green?style=for-the-badge&logo=automation&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -56,10 +57,11 @@
 ## 🔉 Хобби и интересы
 - 🔉🔊🔉 Домашние кинотеатры и стерео системы
 - 🎼 Музыкальный lossless стриминг
+
+
 - 🎮 Видео игры
 
-
-  ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
+![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
   ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 - 🗓 Личная эффективность и осознанность
 - 🏚 Умный дом, IoT
