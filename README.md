@@ -29,7 +29,7 @@
 ![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=console&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bug Reporting](https://img.shields.io/badge/-Bug%20Reporting-red?style=for-the-badge&logo=bug&logoColor=white)
-![YouTrack](https://img.shields.io/badge/-YouTrack-0062CC?style=for-the-badge&logo=jetbrains&logoColor=white)
+![YouTrack](https://img.shields.io/badge/-YouTrack-FF69B4?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Emulation](https://img.shields.io/badge/-Emulation-grey?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Mindmapping](https://img.shields.io/badge/-Mindmapping-yellowgreen?style=for-the-badge&logo=brain&logoColor=white)
