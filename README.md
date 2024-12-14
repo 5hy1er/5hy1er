@@ -11,6 +11,9 @@
 ![watchOS](https://img.shields.io/badge/-watchOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![tvOS](https://img.shields.io/badge/-tvOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+
 ![Apple Calendar](https://img.shields.io/badge/-Apple%20Calendar-F6F6F6?style=for-the-badge&logo=apple&logoColor=black)
 ![Todoist](https://img.shields.io/badge/-Todoist-EE4C2C?style=for-the-badge&logo=todoist&logoColor=white)
 ![Logitech](https://img.shields.io/badge/-Logitech-00BFFF?style=for-the-badge&logo=logitech&logoColor=black)
@@ -27,14 +30,18 @@
 ![Test Design Techniques](https://img.shields.io/badge/-Test%20Design%20Techniques-ffb900?style=for-the-badge&logo=knowledgebase&logoColor=white)
 ![API Testing](https://img.shields.io/badge/-API%20Testing-orange?style=for-the-badge&logo=api&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=console&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bug Reporting](https://img.shields.io/badge/-Bug%20Reporting-red?style=for-the-badge&logo=bug&logoColor=white)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-FF69B4?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Emulation](https://img.shields.io/badge/-Emulation-grey?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Mindmapping](https://img.shields.io/badge/-Mindmapping-yellowgreen?style=for-the-badge&logo=brain&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
 
 ### 💡 Изучаю:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,10 +78,16 @@
 
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
   ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+  ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+
 - 🗓 Личная эффективность и осознанность
+- Музыкальный продакшн
+
+![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-444444?style=for-the-badge&logoColor=white)
 - 🏚 Умный дом, IoT
 
 ---
 
 ## 📬 Контакты
-- **Telegram**: [@redshyler](https://t.me/redshyler)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[@redshyler](https://t.me/redshyler)
