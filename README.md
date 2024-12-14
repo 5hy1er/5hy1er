@@ -13,7 +13,6 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
-
 ![Apple Calendar](https://img.shields.io/badge/-Apple%20Calendar-F6F6F6?style=for-the-badge&logo=apple&logoColor=black)
 ![Todoist](https://img.shields.io/badge/-Todoist-EE4C2C?style=for-the-badge&logo=todoist&logoColor=white)
 ![Logitech](https://img.shields.io/badge/-Logitech-00BFFF?style=for-the-badge&logo=logitech&logoColor=black)
