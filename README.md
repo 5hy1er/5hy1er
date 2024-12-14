@@ -22,6 +22,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-f76935?style=for-the-badge&logo=postman&logoColor=white)
 ![Logic Testing](https://img.shields.io/badge/-Logic%20Testing-blue?style=for-the-badge&logo=data&logoColor=white)
 ![UI/UX Testing](https://img.shields.io/badge/-UI/UX%20Testing-purple?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Responsive Testing](https://img.shields.io/badge/-Responsive%20Testing-lightblue?style=for-the-badge&logo=responsive&logoColor=white)
 ![Test Design Techniques](https://img.shields.io/badge/-Test%20Design%20Techniques-ffb900?style=for-the-badge&logo=knowledgebase&logoColor=white)
 ![API Testing](https://img.shields.io/badge/-API%20Testing-orange?style=for-the-badge&logo=api&logoColor=white)
