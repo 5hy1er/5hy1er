@@ -39,7 +39,6 @@
 ![Mindmapping](https://img.shields.io/badge/-Mindmapping-yellowgreen?style=for-the-badge&logo=brain&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Firefox](style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 
 ### 💡 Изучаю:
